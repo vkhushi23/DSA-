@@ -1,3 +1,9 @@
 # DSA-
 New Project <br>
-daily write one project
+import java.awt.*; <br>
+improt java.awt.*; <br>
+import javax.swing.*;<br>
+
+public class OOPCheck extends JFrame implements ActionListener {<br>
+
+
